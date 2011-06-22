@@ -1,1 +1,6 @@
 site_config.js
+.DS_Store
+Contents/dist
+Contents/Resources/tmp
+Contents/Resources/modules/*.js
+*.log
