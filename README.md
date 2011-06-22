@@ -1,3 +1,16 @@
+# xkcd.app
+
+xkcd.app is a wrapper for xkcd console.
+
+## Installation
+
+* Clone the repo: `git clone git@github.com:ericmuyser/xkcd.app.git`
+* If you are on Mac OSX, simply run xkcd.app. Otherwise, build with Titanium Developer.
+
+## Try
+
+Download packages here: [http://api.appcelerator.net/p/pages/app_page?token=y4rZyw23](http://api.appcelerator.net/p/pages/app_page?token=y4rZyw23)
+
 unixkcd
 =========
 
